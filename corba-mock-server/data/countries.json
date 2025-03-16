@@ -1,0 +1,14 @@
+[
+  { "id": 380, "name": "Italy", "short": "IT", "long": "ITA", "worldRegion": 16 },
+  { "id": 191, "name": "Croatia", "short": "HR", "long": "HRV", "worldRegion": 16 },
+  { "id": 724, "name": "Spain", "short": "ES", "long": "ESP", "worldRegion": 16 },
+  { "id": 300, "name": "Greece", "short": "GR", "long": "GRC", "worldRegion": 16 },
+  { "id": 250, "name": "France", "short": "FR", "long": "FRA", "worldRegion": 16 },
+  { "id": 840, "name": "United States", "short": "US", "long": "USA", "worldRegion": 21 },
+  { "id": 484, "name": "Mexico", "short": "MX", "long": "MEX", "worldRegion": 21 },
+  { "id": 76, "name": "Brazil", "short": "BR", "long": "BRA", "worldRegion": 21 },
+  { "id": 392, "name": "Japan", "short": "JP", "long": "JPN", "worldRegion": 32 },
+  { "id": 36, "name": "Australia", "short": "AU", "long": "AUS", "worldRegion": 32 },
+  { "id": 554, "name": "New Zealand", "short": "NZ", "long": "NZL", "worldRegion": 32 },
+  { "id": 710, "name": "South Africa", "short": "ZA", "long": "ZAF", "worldRegion": 18 }
+]

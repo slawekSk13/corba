@@ -1,0 +1,18 @@
+[
+  { "id": 5, "name": "Jeanneau", "shortName": "Jeanneau" },
+  { "id": 12, "name": "Beneteau", "shortName": "Beneteau" },
+  { "id": 19, "name": "Bavaria Yachtbau", "shortName": "Bavaria" },
+  { "id": 26, "name": "Lagoon", "shortName": "Lagoon" },
+  { "id": 33, "name": "Dufour Yachts", "shortName": "Dufour" },
+  { "id": 40, "name": "Fountaine Pajot", "shortName": "Fountaine Pajot" },
+  { "id": 47, "name": "Hanse Yachts", "shortName": "Hanse" },
+  { "id": 54, "name": "Nautor's Swan", "shortName": "Swan" },
+  { "id": 61, "name": "Oyster Yachts", "shortName": "Oyster" },
+  { "id": 68, "name": "X-Yachts", "shortName": "X-Yachts" },
+  { "id": 75, "name": "Hallberg-Rassy", "shortName": "Hallberg-Rassy" },
+  { "id": 82, "name": "Privilege Marine", "shortName": "Privilege" },
+  { "id": 89, "name": "Sunseeker", "shortName": "Sunseeker" },
+  { "id": 96, "name": "Princess Yachts", "shortName": "Princess" },
+  { "id": 103, "name": "Azimut Yachts", "shortName": "Azimut" },
+  { "id": 268, "name": "Aquarius Shipyard Private Limited", "shortName": "Aquarius Shipyard" }
+]

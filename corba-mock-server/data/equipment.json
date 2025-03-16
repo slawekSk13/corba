@@ -1,0 +1,14 @@
+[
+  { "id": 9, "name": "Bow thruster" },
+  { "id": 16, "name": "Linen included" },
+  { "id": 23, "name": "Air Condition" },
+  { "id": 30, "name": "GPS" },
+  { "id": 37, "name": "Autopilot" },
+  { "id": 44, "name": "Radar" },
+  { "id": 51, "name": "Dinghy" },
+  { "id": 58, "name": "Outboard engine" },
+  { "id": 65, "name": "Spinnaker" },
+  { "id": 72, "name": "Gennaker" },
+  { "id": 79, "name": "Electric winch" },
+  { "id": 86, "name": "Water maker" }
+]

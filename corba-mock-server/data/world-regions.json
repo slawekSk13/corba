@@ -1,0 +1,12 @@
+[
+  { "id": 16, "name": "Mediterranean" },
+  { "id": 18, "name": "Africa" },
+  { "id": 21, "name": "Americas" },
+  { "id": 22, "name": "Caribbean" },
+  { "id": 32, "name": "Asia-Pacific" },
+  { "id": 41, "name": "Northern Europe" },
+  { "id": 52, "name": "Middle East" },
+  { "id": 63, "name": "Indian Ocean" },
+  { "id": 71, "name": "Arctic" },
+  { "id": 82, "name": "Antarctica" }
+]

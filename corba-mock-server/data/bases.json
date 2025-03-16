@@ -1,0 +1,123 @@
+[
+  {
+    "id": 249,
+    "name": "Sapri",
+    "city": "Sapri",
+    "country": "Italy",
+    "address": "Via Porto 15",
+    "latitude": "40.06521",
+    "longitude": "15.627836",
+    "countryId": 380,
+    "sailingAreas": [18]
+  },
+  {
+    "id": 358,
+    "name": "ACI Marina Split",
+    "city": "Split",
+    "country": "Croatia",
+    "address": "Uvala Baluni 8",
+    "latitude": "43.502235",
+    "longitude": "16.427378",
+    "countryId": 191,
+    "sailingAreas": [27]
+  },
+  {
+    "id": 467,
+    "name": "Marina Barcelona",
+    "city": "Barcelona",
+    "country": "Spain",
+    "address": "Passeig Joan de Borbó 80",
+    "latitude": "41.374791",
+    "longitude": "2.184742",
+    "countryId": 724,
+    "sailingAreas": [45]
+  },
+  {
+    "id": 576,
+    "name": "Athens Marina",
+    "city": "Athens",
+    "country": "Greece",
+    "address": "Mikrolimano",
+    "latitude": "37.935250",
+    "longitude": "23.647099",
+    "countryId": 300,
+    "sailingAreas": [36]
+  },
+  {
+    "id": 685,
+    "name": "Port de Marseille",
+    "city": "Marseille",
+    "country": "France",
+    "address": "Quai des Belges",
+    "latitude": "43.295841",
+    "longitude": "5.374522",
+    "countryId": 250,
+    "sailingAreas": [16]
+  },
+  {
+    "id": 794,
+    "name": "Marina Miami",
+    "city": "Miami",
+    "country": "United States",
+    "address": "400 Biscayne Blvd",
+    "latitude": "25.781450",
+    "longitude": "-80.186256",
+    "countryId": 840,
+    "sailingAreas": [63]
+  },
+  {
+    "id": 803,
+    "name": "Marina Cancun",
+    "city": "Cancun",
+    "country": "Mexico",
+    "address": "Blvd. Kukulcan",
+    "latitude": "21.136700",
+    "longitude": "-86.774902",
+    "countryId": 484,
+    "sailingAreas": [72]
+  },
+  {
+    "id": 912,
+    "name": "Marina Rio",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "address": "Av. Infante Dom Henrique",
+    "latitude": "-22.920282",
+    "longitude": "-43.171234",
+    "countryId": 76,
+    "sailingAreas": [54]
+  },
+  {
+    "id": 921,
+    "name": "Cairns Marina",
+    "city": "Cairns",
+    "country": "Australia",
+    "address": "1 Spence St",
+    "latitude": "-16.920000",
+    "longitude": "145.778000",
+    "countryId": 36,
+    "sailingAreas": [81]
+  },
+  {
+    "id": 930,
+    "name": "Tokyo Bay Marina",
+    "city": "Tokyo",
+    "country": "Japan",
+    "address": "Minato Ward",
+    "latitude": "35.654500",
+    "longitude": "139.769017",
+    "countryId": 392,
+    "sailingAreas": [90]
+  },
+  {
+    "id": 949,
+    "name": "V&A Waterfront",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "address": "19 South Arm Rd",
+    "latitude": "-33.901447",
+    "longitude": "18.421696",
+    "countryId": 710,
+    "sailingAreas": [99]
+  }
+]

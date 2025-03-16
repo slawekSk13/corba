@@ -1,0 +1,261 @@
+[
+  {
+    "id": 8860335000797,
+    "name": "Bilko",
+    "model": "Sun Odyssey 509",
+    "modelId": 428155400797,
+    "shipyardId": 5,
+    "year": 2020,
+    "kind": "Gulet",
+    "certificate": "C12345678",
+    "homeBaseId": 358,
+    "homeBase": "ACI Marina Split",
+    "companyId": 797,
+    "company": "DemoMMK",
+    "draught": 2,
+    "beam": 3.82,
+    "length": 12.8,
+    "waterCapacity": 200,
+    "fuelCapacity": 170,
+    "engine": "750 hp",
+    "deposit": 2000,
+    "currency": "EUR",
+    "commissionPercentage": 17,
+    "wc": 2,
+    "berths": 12,
+    "cabins": 8,
+    "wcNote": "Note about wc",
+    "berthsNote": "Note about berths",
+    "cabinsNote": "Note about cabins",
+    "transitLog": 150,
+    "mainsailArea": 75.34,
+    "genoaArea": 28,
+    "mainsailType": "Furling",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 1,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 10,
+    "images": [
+      {
+        "name": "Lagoon_55_interior.jpg",
+        "description": "Interior image",
+        "url": "http://www.booking-manager.com/image123",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [16, 23, 30],
+    "equipment": [
+      {
+        "value": "Linen included",
+        "id": 16
+      },
+      {
+        "value": "Air Condition with temperature control",
+        "id": 23
+      },
+      {
+        "value": "GPS with chart plotter",
+        "id": 30
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 23,
+        "name": "Air Condition",
+        "value": "Works well",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": false,
+        "extras": [
+          {
+            "id": 8860335000797,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 500,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [5],
+                "to": [27]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2019-04-01 00:00:00",
+            "description": "Extras description",
+            "availableInBase": 191,
+            "validSailingAreas": [27]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is english (UK) descriptions for yacht Jana the Third",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "shutterstock_399217630.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100797_shutterstock_399217630.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Johnson John",
+        "description": "John is the captain of Jana the Third",
+        "age": 32,
+        "nationality": "Croatia",
+        "roles": ["Captain"],
+        "licenses": "1234567890",
+        "languages": ["German"],
+        "images": [
+          {
+            "id": 4469909500000101000,
+            "name": "shutterstock_399217630.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100797_shutterstock_399217630.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000798,
+    "name": "Marielle",
+    "model": "Oceanis 45",
+    "modelId": 428155400798,
+    "shipyardId": 12,
+    "year": 2019,
+    "kind": "Sail boat",
+    "certificate": "B87654321",
+    "homeBaseId": 249,
+    "homeBase": "Sapri",
+    "companyId": 805,
+    "company": "Mediterranean Yachting",
+    "draught": 1.85,
+    "beam": 4.5,
+    "length": 13.94,
+    "waterCapacity": 330,
+    "fuelCapacity": 200,
+    "engine": "57 hp",
+    "deposit": 1800,
+    "currency": "EUR",
+    "commissionPercentage": 15,
+    "wc": 2,
+    "berths": 8,
+    "cabins": 4,
+    "wcNote": "Electric marine toilets",
+    "berthsNote": "Convertible saloon",
+    "cabinsNote": "2 double cabins, 2 twin cabins",
+    "transitLog": 140,
+    "mainsailArea": 52,
+    "genoaArea": 45,
+    "mainsailType": "Classic",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 6,
+    "defaultCheckInTime": "16:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 8,
+    "images": [
+      {
+        "name": "Oceanis-45-exterior.jpg",
+        "description": "Exterior view",
+        "url": "http://www.booking-manager.com/image124",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [9, 30, 37],
+    "equipment": [
+      {
+        "value": "Bow thruster",
+        "id": 9
+      },
+      {
+        "value": "GPS with chart plotter",
+        "id": 30
+      },
+      {
+        "value": "Autopilot",
+        "id": 37
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100001,
+        "parentId": 9,
+        "name": "Bow thruster",
+        "value": "60 kgf",
+        "categoryName": "Navigation equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000798,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 150,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [12],
+                "to": [18]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2023-12-31 00:00:00",
+            "description": "Mandatory cleaning fee",
+            "availableInBase": 380,
+            "validSailingAreas": [18]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "Oceanis 45 is perfect for family sailing trips in the Mediterranean",
+        "document": [
+          {
+            "id": 4469909500000101001,
+            "name": "oceanis-45-layout.jpg",
+            "description": "Boat layout",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100805_oceanis-45-layout.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  }
+]

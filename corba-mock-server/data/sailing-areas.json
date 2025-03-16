@@ -1,0 +1,12 @@
+[
+  { "id": 18, "name": "Tyrrhenian Sea" },
+  { "id": 27, "name": "Adriatic Sea" },
+  { "id": 36, "name": "Aegean Sea" },
+  { "id": 45, "name": "Balearic Sea" },
+  { "id": 54, "name": "Rio De Janeiro" },
+  { "id": 63, "name": "Florida Keys" },
+  { "id": 72, "name": "Cancun" },
+  { "id": 81, "name": "Great Barrier Reef" },
+  { "id": 90, "name": "Tokyo Bay" },
+  { "id": 99, "name": "Cape Town" }
+]

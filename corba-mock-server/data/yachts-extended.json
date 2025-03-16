@@ -1,0 +1,7029 @@
+[
+  {
+    "id": 8860335000797,
+    "name": "Bilko",
+    "model": "Sun Odyssey 509",
+    "modelId": 428155400797,
+    "shipyardId": 5,
+    "year": 2020,
+    "kind": "Gulet",
+    "certificate": "C12345678",
+    "homeBaseId": 358,
+    "homeBase": "ACI Marina Split",
+    "companyId": 797,
+    "company": "DemoMMK",
+    "draught": 2,
+    "beam": 3.82,
+    "length": 12.8,
+    "waterCapacity": 200,
+    "fuelCapacity": 170,
+    "engine": "750 hp",
+    "deposit": 2000,
+    "currency": "EUR",
+    "commissionPercentage": 17,
+    "wc": 2,
+    "berths": 12,
+    "cabins": 8,
+    "wcNote": "Note about wc",
+    "berthsNote": "Note about berths",
+    "cabinsNote": "Note about cabins",
+    "transitLog": 150,
+    "mainsailArea": 75.34,
+    "genoaArea": 28,
+    "mainsailType": "Furling",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 1,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 10,
+    "images": [
+      {
+        "name": "Lagoon_55_interior.jpg",
+        "description": "Interior image",
+        "url": "http://www.booking-manager.com/image123",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      16,
+      23,
+      30
+    ],
+    "equipment": [
+      {
+        "value": "Linen included",
+        "id": 16
+      },
+      {
+        "value": "Air Condition with temperature control",
+        "id": 23
+      },
+      {
+        "value": "GPS with chart plotter",
+        "id": 30
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 23,
+        "name": "Air Condition",
+        "value": "Works well",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": false,
+        "extras": [
+          {
+            "id": 8860335000797,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 500,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  5
+                ],
+                "to": [
+                  27
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2019-04-01 00:00:00",
+            "description": "Extras description",
+            "availableInBase": 191,
+            "validSailingAreas": [
+              27
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is english (UK) descriptions for yacht Jana the Third",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "shutterstock_399217630.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100797_shutterstock_399217630.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Johnson John",
+        "description": "John is the captain of Jana the Third",
+        "age": 32,
+        "nationality": "Croatia",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "1234567890",
+        "languages": [
+          "German"
+        ],
+        "images": [
+          {
+            "id": 4469909500000101000,
+            "name": "shutterstock_399217630.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100797_shutterstock_399217630.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000798,
+    "name": "Marielle",
+    "model": "Oceanis 45",
+    "modelId": 428155400798,
+    "shipyardId": 12,
+    "year": 2019,
+    "kind": "Sail boat",
+    "certificate": "B87654321",
+    "homeBaseId": 249,
+    "homeBase": "Sapri",
+    "companyId": 805,
+    "company": "Mediterranean Yachting",
+    "draught": 1.85,
+    "beam": 4.5,
+    "length": 13.94,
+    "waterCapacity": 330,
+    "fuelCapacity": 200,
+    "engine": "57 hp",
+    "deposit": 1800,
+    "currency": "EUR",
+    "commissionPercentage": 15,
+    "wc": 2,
+    "berths": 8,
+    "cabins": 4,
+    "wcNote": "Electric marine toilets",
+    "berthsNote": "Convertible saloon",
+    "cabinsNote": "2 double cabins, 2 twin cabins",
+    "transitLog": 140,
+    "mainsailArea": 52,
+    "genoaArea": 45,
+    "mainsailType": "Classic",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 6,
+    "defaultCheckInTime": "16:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 8,
+    "images": [
+      {
+        "name": "Oceanis-45-exterior.jpg",
+        "description": "Exterior view",
+        "url": "http://www.booking-manager.com/image124",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      9,
+      30,
+      37
+    ],
+    "equipment": [
+      {
+        "value": "Bow thruster",
+        "id": 9
+      },
+      {
+        "value": "GPS with chart plotter",
+        "id": 30
+      },
+      {
+        "value": "Autopilot",
+        "id": 37
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 9,
+        "name": "Bow thruster",
+        "value": "60 kgf",
+        "categoryName": "Navigation equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000798,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 150,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  12
+                ],
+                "to": [
+                  18
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2023-12-31 00:00:00",
+            "description": "Mandatory cleaning fee",
+            "availableInBase": 380,
+            "validSailingAreas": [
+              18
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "Oceanis 45 is perfect for family sailing trips in the Mediterranean",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "oceanis-45-layout.jpg",
+            "description": "Boat layout",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100805_oceanis-45-layout.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000799,
+    "name": "Yacht 2",
+    "model": "Model 2",
+    "modelId": 428155400799,
+    "shipyardId": 12,
+    "year": 2019,
+    "kind": "Gulet",
+    "certificate": "C000000",
+    "homeBaseId": 467,
+    "homeBase": "Marina Barcelona",
+    "companyId": 813,
+    "company": "Adriatic Sailors",
+    "draught": 1.6688618515038267,
+    "beam": 5.208172404903349,
+    "length": 14.315675933124224,
+    "waterCapacity": 242,
+    "fuelCapacity": 160,
+    "engine": "668 hp",
+    "deposit": 2361,
+    "currency": "EUR",
+    "commissionPercentage": 14,
+    "wc": 3,
+    "berths": 7,
+    "cabins": 3,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 148,
+    "mainsailArea": 63,
+    "genoaArea": 40,
+    "mainsailType": "Classic",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 3,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 3,
+    "maxPeopleOnBoard": 6,
+    "images": [
+      {
+        "name": "yacht-2.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image2",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      37,
+      58,
+      72
+    ],
+    "equipment": [
+      {
+        "value": "Autopilot",
+        "id": 37
+      },
+      {
+        "value": "Outboard engine",
+        "id": 58
+      },
+      {
+        "value": "Gennaker",
+        "id": 72
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 37,
+        "name": "Autopilot",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000799,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 321,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  467
+                ],
+                "to": [
+                  45
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 467,
+            "validSailingAreas": [
+              45
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Gulet Yacht 2",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-2-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100813_yacht-2-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 2",
+        "description": "Experienced captain of Yacht 2",
+        "age": 49,
+        "nationality": "Spain",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-2",
+        "languages": [
+          "English",
+          "French"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-2.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100813_captain-2.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000800,
+    "name": "Yacht 3",
+    "model": "Model 3",
+    "modelId": 428155400800,
+    "shipyardId": 68,
+    "year": 2018,
+    "kind": "Sail boat",
+    "certificate": "C111111",
+    "homeBaseId": 794,
+    "homeBase": "Marina Miami",
+    "companyId": 869,
+    "company": "Brazilian Yacht Experience",
+    "draught": 1.5602693887775139,
+    "beam": 5.195862184395957,
+    "length": 16.443690411856387,
+    "waterCapacity": 165,
+    "fuelCapacity": 272,
+    "engine": "429 hp",
+    "deposit": 4405,
+    "currency": "EUR",
+    "commissionPercentage": 14,
+    "wc": 1,
+    "berths": 6,
+    "cabins": 3,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 177,
+    "mainsailArea": 51,
+    "genoaArea": 63,
+    "mainsailType": "Classic",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 5,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 14,
+    "images": [
+      {
+        "name": "yacht-3.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image3",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      23,
+      79,
+      72
+    ],
+    "equipment": [
+      {
+        "value": "Air Condition",
+        "id": 23
+      },
+      {
+        "value": "Electric winch",
+        "id": 79
+      },
+      {
+        "value": "Gennaker",
+        "id": 72
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 23,
+        "name": "Air Condition",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000800,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 423,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  794
+                ],
+                "to": [
+                  63
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 794,
+            "validSailingAreas": [
+              63
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Sail boat Yacht 3",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-3-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100869_yacht-3-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000801,
+    "name": "Yacht 4",
+    "model": "Model 4",
+    "modelId": 428155400801,
+    "shipyardId": 103,
+    "year": 2023,
+    "kind": "Motor yacht",
+    "certificate": "C222222",
+    "homeBaseId": 358,
+    "homeBase": "ACI Marina Split",
+    "companyId": 869,
+    "company": "Brazilian Yacht Experience",
+    "draught": 1.5138781524286022,
+    "beam": 4.185656465650876,
+    "length": 22.454563444417822,
+    "waterCapacity": 376,
+    "fuelCapacity": 274,
+    "engine": "455 hp",
+    "deposit": 3630,
+    "currency": "EUR",
+    "commissionPercentage": 13,
+    "wc": 3,
+    "berths": 11,
+    "cabins": 2,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 105,
+    "mainsailArea": 83,
+    "genoaArea": 65,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 0,
+    "defaultCheckInDay": 1,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 12,
+    "images": [
+      {
+        "name": "yacht-4.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image4",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      65,
+      30,
+      79
+    ],
+    "equipment": [
+      {
+        "value": "Spinnaker",
+        "id": 65
+      },
+      {
+        "value": "GPS",
+        "id": 30
+      },
+      {
+        "value": "Electric winch",
+        "id": 79
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 65,
+        "name": "Spinnaker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Skippered",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000801,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 376,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  358
+                ],
+                "to": [
+                  27
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 358,
+            "validSailingAreas": [
+              27
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor yacht Yacht 4",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-4-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100869_yacht-4-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 4",
+        "description": "Experienced captain of Yacht 4",
+        "age": 35,
+        "nationality": "Croatia",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-4",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-4.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100869_captain-4.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000802,
+    "name": "Yacht 5",
+    "model": "Model 5",
+    "modelId": 428155400802,
+    "shipyardId": 54,
+    "year": 2023,
+    "kind": "Catamaran",
+    "certificate": "C333333",
+    "homeBaseId": 358,
+    "homeBase": "ACI Marina Split",
+    "companyId": 834,
+    "company": "Florida Yacht Charters",
+    "draught": 2.8241915983713755,
+    "beam": 5.744712951911927,
+    "length": 16.472126360081642,
+    "waterCapacity": 393,
+    "fuelCapacity": 364,
+    "engine": "705 hp",
+    "deposit": 2799,
+    "currency": "EUR",
+    "commissionPercentage": 12,
+    "wc": 2,
+    "berths": 12,
+    "cabins": 3,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 107,
+    "mainsailArea": 41,
+    "genoaArea": 65,
+    "mainsailType": "Furling",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 0,
+    "defaultCheckInDay": 0,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 9,
+    "images": [
+      {
+        "name": "yacht-5.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image5",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      37,
+      23,
+      44
+    ],
+    "equipment": [
+      {
+        "value": "Autopilot",
+        "id": 37
+      },
+      {
+        "value": "Air Condition",
+        "id": 23
+      },
+      {
+        "value": "Radar",
+        "id": 44
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 37,
+        "name": "Autopilot",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000802,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 568,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  358
+                ],
+                "to": [
+                  27
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 358,
+            "validSailingAreas": [
+              27
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Catamaran Yacht 5",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-5-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100834_yacht-5-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000803,
+    "name": "Yacht 6",
+    "model": "Model 6",
+    "modelId": 428155400803,
+    "shipyardId": 47,
+    "year": 2021,
+    "kind": "RIB",
+    "certificate": "C444444",
+    "homeBaseId": 912,
+    "homeBase": "Marina Rio",
+    "companyId": 869,
+    "company": "Brazilian Yacht Experience",
+    "draught": 1.6337209731597628,
+    "beam": 4.966246879814812,
+    "length": 11.783863339219744,
+    "waterCapacity": 360,
+    "fuelCapacity": 216,
+    "engine": "120 hp",
+    "deposit": 4782,
+    "currency": "EUR",
+    "commissionPercentage": 17,
+    "wc": 2,
+    "berths": 15,
+    "cabins": 7,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 105,
+    "mainsailArea": 86,
+    "genoaArea": 54,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 5,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 15,
+    "images": [
+      {
+        "name": "yacht-6.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image6",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      37,
+      16,
+      51
+    ],
+    "equipment": [
+      {
+        "value": "Autopilot",
+        "id": 37
+      },
+      {
+        "value": "Linen included",
+        "id": 16
+      },
+      {
+        "value": "Dinghy",
+        "id": 51
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 37,
+        "name": "Autopilot",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Skippered",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000803,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 169,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  912
+                ],
+                "to": [
+                  54
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 912,
+            "validSailingAreas": [
+              54
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for RIB Yacht 6",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-6-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100869_yacht-6-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 6",
+        "description": "Experienced captain of Yacht 6",
+        "age": 34,
+        "nationality": "Brazil",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-6",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-6.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100869_captain-6.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000804,
+    "name": "Yacht 7",
+    "model": "Model 7",
+    "modelId": 428155400804,
+    "shipyardId": 19,
+    "year": 2022,
+    "kind": "Motor boat",
+    "certificate": "C555555",
+    "homeBaseId": 930,
+    "homeBase": "Tokyo Bay Marina",
+    "companyId": 805,
+    "company": "Mediterranean Yachting",
+    "draught": 1.6125770942413706,
+    "beam": 5.827598856546173,
+    "length": 23.322907694080744,
+    "waterCapacity": 324,
+    "fuelCapacity": 304,
+    "engine": "546 hp",
+    "deposit": 2318,
+    "currency": "EUR",
+    "commissionPercentage": 17,
+    "wc": 1,
+    "berths": 15,
+    "cabins": 6,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 154,
+    "mainsailArea": 51,
+    "genoaArea": 56,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 3,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 3,
+    "maxPeopleOnBoard": 15,
+    "images": [
+      {
+        "name": "yacht-7.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image7",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      58,
+      23,
+      23
+    ],
+    "equipment": [
+      {
+        "value": "Outboard engine",
+        "id": 58
+      },
+      {
+        "value": "Air Condition",
+        "id": 23
+      },
+      {
+        "value": "Air Condition",
+        "id": 23
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 58,
+        "name": "Outboard engine",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000804,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 343,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  930
+                ],
+                "to": [
+                  90
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 930,
+            "validSailingAreas": [
+              90
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor boat Yacht 7",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-7-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100805_yacht-7-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 7",
+        "description": "Experienced captain of Yacht 7",
+        "age": 40,
+        "nationality": "Japan",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-7",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-7.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100805_captain-7.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000805,
+    "name": "Yacht 8",
+    "model": "Model 8",
+    "modelId": 428155400805,
+    "shipyardId": 96,
+    "year": 2018,
+    "kind": "Motor sailer",
+    "certificate": "C666666",
+    "homeBaseId": 803,
+    "homeBase": "Marina Cancun",
+    "companyId": 797,
+    "company": "DemoMMK",
+    "draught": 1.60557661340972,
+    "beam": 3.956523400695767,
+    "length": 10.80152148996302,
+    "waterCapacity": 380,
+    "fuelCapacity": 388,
+    "engine": "187 hp",
+    "deposit": 1931,
+    "currency": "EUR",
+    "commissionPercentage": 14,
+    "wc": 2,
+    "berths": 8,
+    "cabins": 5,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 126,
+    "mainsailArea": 63,
+    "genoaArea": 62,
+    "mainsailType": "Classic",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 4,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 13,
+    "images": [
+      {
+        "name": "yacht-8.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image8",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      65,
+      86,
+      23
+    ],
+    "equipment": [
+      {
+        "value": "Spinnaker",
+        "id": 65
+      },
+      {
+        "value": "Water maker",
+        "id": 86
+      },
+      {
+        "value": "Air Condition",
+        "id": 23
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 65,
+        "name": "Spinnaker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Skippered",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000805,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 450,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  803
+                ],
+                "to": [
+                  72
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 803,
+            "validSailingAreas": [
+              72
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor sailer Yacht 8",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-8-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100797_yacht-8-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000806,
+    "name": "Yacht 9",
+    "model": "Model 9",
+    "modelId": 428155400806,
+    "shipyardId": 19,
+    "year": 2024,
+    "kind": "Motor yacht",
+    "certificate": "C777777",
+    "homeBaseId": 921,
+    "homeBase": "Cairns Marina",
+    "companyId": 834,
+    "company": "Florida Yacht Charters",
+    "draught": 2.493399832836503,
+    "beam": 5.202696143437849,
+    "length": 22.093334543254176,
+    "waterCapacity": 265,
+    "fuelCapacity": 319,
+    "engine": "163 hp",
+    "deposit": 3750,
+    "currency": "EUR",
+    "commissionPercentage": 13,
+    "wc": 2,
+    "berths": 7,
+    "cabins": 3,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 108,
+    "mainsailArea": 88,
+    "genoaArea": 69,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 0,
+    "defaultCheckInDay": 3,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 3,
+    "maxPeopleOnBoard": 8,
+    "images": [
+      {
+        "name": "yacht-9.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image9",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      30,
+      79,
+      79
+    ],
+    "equipment": [
+      {
+        "value": "GPS",
+        "id": 30
+      },
+      {
+        "value": "Electric winch",
+        "id": 79
+      },
+      {
+        "value": "Electric winch",
+        "id": 79
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 30,
+        "name": "GPS",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Skippered",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000806,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 471,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  921
+                ],
+                "to": [
+                  81
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 921,
+            "validSailingAreas": [
+              81
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor yacht Yacht 9",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-9-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100834_yacht-9-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 9",
+        "description": "Experienced captain of Yacht 9",
+        "age": 33,
+        "nationality": "Australia",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-9",
+        "languages": [
+          "English",
+          "French"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-9.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100834_captain-9.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000807,
+    "name": "Yacht 10",
+    "model": "Model 10",
+    "modelId": 428155400807,
+    "shipyardId": 61,
+    "year": 2020,
+    "kind": "Trimaran",
+    "certificate": "C888888",
+    "homeBaseId": 803,
+    "homeBase": "Marina Cancun",
+    "companyId": 834,
+    "company": "Florida Yacht Charters",
+    "draught": 1.6613346700548932,
+    "beam": 4.126306104000818,
+    "length": 15.165958058152398,
+    "waterCapacity": 353,
+    "fuelCapacity": 175,
+    "engine": "639 hp",
+    "deposit": 3389,
+    "currency": "EUR",
+    "commissionPercentage": 14,
+    "wc": 3,
+    "berths": 7,
+    "cabins": 3,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 174,
+    "mainsailArea": 83,
+    "genoaArea": 40,
+    "mainsailType": "Classic",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 0,
+    "defaultCheckInDay": 5,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 3,
+    "maxPeopleOnBoard": 9,
+    "images": [
+      {
+        "name": "yacht-10.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image10",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      58,
+      9,
+      58
+    ],
+    "equipment": [
+      {
+        "value": "Outboard engine",
+        "id": 58
+      },
+      {
+        "value": "Bow thruster",
+        "id": 9
+      },
+      {
+        "value": "Outboard engine",
+        "id": 58
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 58,
+        "name": "Outboard engine",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000807,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 208,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  803
+                ],
+                "to": [
+                  72
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 803,
+            "validSailingAreas": [
+              72
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Trimaran Yacht 10",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-10-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100834_yacht-10-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000808,
+    "name": "Yacht 11",
+    "model": "Model 11",
+    "modelId": 428155400808,
+    "shipyardId": 54,
+    "year": 2019,
+    "kind": "Motor yacht",
+    "certificate": "C999999",
+    "homeBaseId": 249,
+    "homeBase": "Sapri",
+    "companyId": 797,
+    "company": "DemoMMK",
+    "draught": 2.9963114813628464,
+    "beam": 3.951679056135862,
+    "length": 21.46332400252174,
+    "waterCapacity": 254,
+    "fuelCapacity": 339,
+    "engine": "566 hp",
+    "deposit": 2891,
+    "currency": "EUR",
+    "commissionPercentage": 10,
+    "wc": 2,
+    "berths": 14,
+    "cabins": 2,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 183,
+    "mainsailArea": 59,
+    "genoaArea": 47,
+    "mainsailType": "Furling",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 6,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 3,
+    "maxPeopleOnBoard": 13,
+    "images": [
+      {
+        "name": "yacht-11.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image11",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      72,
+      58,
+      58
+    ],
+    "equipment": [
+      {
+        "value": "Gennaker",
+        "id": 72
+      },
+      {
+        "value": "Outboard engine",
+        "id": 58
+      },
+      {
+        "value": "Outboard engine",
+        "id": 58
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 72,
+        "name": "Gennaker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000808,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 161,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  249
+                ],
+                "to": [
+                  18
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 249,
+            "validSailingAreas": [
+              18
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor yacht Yacht 11",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-11-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100797_yacht-11-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 11",
+        "description": "Experienced captain of Yacht 11",
+        "age": 47,
+        "nationality": "Italy",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-11",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-11.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100797_captain-11.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000809,
+    "name": "Yacht 12",
+    "model": "Model 12",
+    "modelId": 428155400809,
+    "shipyardId": 68,
+    "year": 2019,
+    "kind": "Gulet",
+    "certificate": "C101010101010",
+    "homeBaseId": 249,
+    "homeBase": "Sapri",
+    "companyId": 856,
+    "company": "Caribbean Sailing",
+    "draught": 2.4915054124675353,
+    "beam": 4.875887684434975,
+    "length": 13.227493601347096,
+    "waterCapacity": 169,
+    "fuelCapacity": 278,
+    "engine": "475 hp",
+    "deposit": 4670,
+    "currency": "EUR",
+    "commissionPercentage": 10,
+    "wc": 1,
+    "berths": 10,
+    "cabins": 3,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 180,
+    "mainsailArea": 76,
+    "genoaArea": 39,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 3,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 3,
+    "maxPeopleOnBoard": 9,
+    "images": [
+      {
+        "name": "yacht-12.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image12",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      44,
+      79,
+      65
+    ],
+    "equipment": [
+      {
+        "value": "Radar",
+        "id": 44
+      },
+      {
+        "value": "Electric winch",
+        "id": 79
+      },
+      {
+        "value": "Spinnaker",
+        "id": 65
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 44,
+        "name": "Radar",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000809,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 390,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  249
+                ],
+                "to": [
+                  18
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 249,
+            "validSailingAreas": [
+              18
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Gulet Yacht 12",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-12-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100856_yacht-12-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000810,
+    "name": "Yacht 13",
+    "model": "Model 13",
+    "modelId": 428155400810,
+    "shipyardId": 40,
+    "year": 2023,
+    "kind": "Superyacht",
+    "certificate": "C111111111111",
+    "homeBaseId": 576,
+    "homeBase": "Athens Marina",
+    "companyId": 842,
+    "company": "Pacific Marine Adventures",
+    "draught": 2.205486288422694,
+    "beam": 3.7984570768540893,
+    "length": 13.594174130250533,
+    "waterCapacity": 386,
+    "fuelCapacity": 251,
+    "engine": "380 hp",
+    "deposit": 4815,
+    "currency": "EUR",
+    "commissionPercentage": 17,
+    "wc": 1,
+    "berths": 14,
+    "cabins": 3,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 100,
+    "mainsailArea": 60,
+    "genoaArea": 39,
+    "mainsailType": "Furling",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 2,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 8,
+    "images": [
+      {
+        "name": "yacht-13.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image13",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      72,
+      58,
+      58
+    ],
+    "equipment": [
+      {
+        "value": "Gennaker",
+        "id": 72
+      },
+      {
+        "value": "Outboard engine",
+        "id": 58
+      },
+      {
+        "value": "Outboard engine",
+        "id": 58
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 72,
+        "name": "Gennaker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000810,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 443,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  576
+                ],
+                "to": [
+                  36
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 576,
+            "validSailingAreas": [
+              36
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Superyacht Yacht 13",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-13-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100842_yacht-13-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000811,
+    "name": "Yacht 14",
+    "model": "Model 14",
+    "modelId": 428155400811,
+    "shipyardId": 33,
+    "year": 2022,
+    "kind": "Catamaran",
+    "certificate": "C121212121212",
+    "homeBaseId": 949,
+    "homeBase": "V&A Waterfront",
+    "companyId": 842,
+    "company": "Pacific Marine Adventures",
+    "draught": 2.1737364987277497,
+    "beam": 4.411142204223274,
+    "length": 23.378583072412045,
+    "waterCapacity": 269,
+    "fuelCapacity": 205,
+    "engine": "72 hp",
+    "deposit": 4744,
+    "currency": "EUR",
+    "commissionPercentage": 13,
+    "wc": 2,
+    "berths": 15,
+    "cabins": 3,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 138,
+    "mainsailArea": 51,
+    "genoaArea": 32,
+    "mainsailType": "Classic",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 3,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 8,
+    "images": [
+      {
+        "name": "yacht-14.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image14",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      65,
+      51,
+      44
+    ],
+    "equipment": [
+      {
+        "value": "Spinnaker",
+        "id": 65
+      },
+      {
+        "value": "Dinghy",
+        "id": 51
+      },
+      {
+        "value": "Radar",
+        "id": 44
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 65,
+        "name": "Spinnaker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000811,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 441,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  949
+                ],
+                "to": [
+                  99
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 949,
+            "validSailingAreas": [
+              99
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Catamaran Yacht 14",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-14-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100842_yacht-14-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 14",
+        "description": "Experienced captain of Yacht 14",
+        "age": 38,
+        "nationality": "South Africa",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-14",
+        "languages": [
+          "English",
+          "French"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-14.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100842_captain-14.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000812,
+    "name": "Yacht 15",
+    "model": "Model 15",
+    "modelId": 428155400812,
+    "shipyardId": 96,
+    "year": 2019,
+    "kind": "Trimaran",
+    "certificate": "C131313131313",
+    "homeBaseId": 921,
+    "homeBase": "Cairns Marina",
+    "companyId": 805,
+    "company": "Mediterranean Yachting",
+    "draught": 2.5703696498836806,
+    "beam": 4.398282006927766,
+    "length": 19.564924333865434,
+    "waterCapacity": 157,
+    "fuelCapacity": 330,
+    "engine": "485 hp",
+    "deposit": 3945,
+    "currency": "EUR",
+    "commissionPercentage": 17,
+    "wc": 3,
+    "berths": 7,
+    "cabins": 7,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 103,
+    "mainsailArea": 84,
+    "genoaArea": 40,
+    "mainsailType": "Classic",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 1,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 3,
+    "maxPeopleOnBoard": 8,
+    "images": [
+      {
+        "name": "yacht-15.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image15",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      65,
+      9,
+      37
+    ],
+    "equipment": [
+      {
+        "value": "Spinnaker",
+        "id": 65
+      },
+      {
+        "value": "Bow thruster",
+        "id": 9
+      },
+      {
+        "value": "Autopilot",
+        "id": 37
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 65,
+        "name": "Spinnaker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000812,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 589,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  921
+                ],
+                "to": [
+                  81
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 921,
+            "validSailingAreas": [
+              81
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Trimaran Yacht 15",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-15-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100805_yacht-15-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 15",
+        "description": "Experienced captain of Yacht 15",
+        "age": 38,
+        "nationality": "Australia",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-15",
+        "languages": [
+          "English",
+          "French"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-15.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100805_captain-15.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000813,
+    "name": "Yacht 16",
+    "model": "Model 16",
+    "modelId": 428155400813,
+    "shipyardId": 68,
+    "year": 2023,
+    "kind": "Catamaran",
+    "certificate": "C141414141414",
+    "homeBaseId": 803,
+    "homeBase": "Marina Cancun",
+    "companyId": 856,
+    "company": "Caribbean Sailing",
+    "draught": 2.9683001082317775,
+    "beam": 4.424021668788534,
+    "length": 19.994113139206362,
+    "waterCapacity": 374,
+    "fuelCapacity": 387,
+    "engine": "147 hp",
+    "deposit": 1744,
+    "currency": "EUR",
+    "commissionPercentage": 13,
+    "wc": 1,
+    "berths": 6,
+    "cabins": 7,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 152,
+    "mainsailArea": 67,
+    "genoaArea": 58,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 3,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 15,
+    "images": [
+      {
+        "name": "yacht-16.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image16",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      58,
+      58,
+      9
+    ],
+    "equipment": [
+      {
+        "value": "Outboard engine",
+        "id": 58
+      },
+      {
+        "value": "Outboard engine",
+        "id": 58
+      },
+      {
+        "value": "Bow thruster",
+        "id": 9
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 58,
+        "name": "Outboard engine",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000813,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 424,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  803
+                ],
+                "to": [
+                  72
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 803,
+            "validSailingAreas": [
+              72
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Catamaran Yacht 16",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-16-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100856_yacht-16-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000814,
+    "name": "Yacht 17",
+    "model": "Model 17",
+    "modelId": 428155400814,
+    "shipyardId": 75,
+    "year": 2018,
+    "kind": "Motor yacht",
+    "certificate": "C151515151515",
+    "homeBaseId": 576,
+    "homeBase": "Athens Marina",
+    "companyId": 797,
+    "company": "DemoMMK",
+    "draught": 2.607219978041546,
+    "beam": 4.860526860812544,
+    "length": 14.265315684013416,
+    "waterCapacity": 350,
+    "fuelCapacity": 228,
+    "engine": "371 hp",
+    "deposit": 3186,
+    "currency": "EUR",
+    "commissionPercentage": 17,
+    "wc": 3,
+    "berths": 7,
+    "cabins": 2,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 169,
+    "mainsailArea": 74,
+    "genoaArea": 44,
+    "mainsailType": "Classic",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 2,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 8,
+    "images": [
+      {
+        "name": "yacht-17.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image17",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      58,
+      51,
+      37
+    ],
+    "equipment": [
+      {
+        "value": "Outboard engine",
+        "id": 58
+      },
+      {
+        "value": "Dinghy",
+        "id": 51
+      },
+      {
+        "value": "Autopilot",
+        "id": 37
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 58,
+        "name": "Outboard engine",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000814,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 125,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  576
+                ],
+                "to": [
+                  36
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 576,
+            "validSailingAreas": [
+              36
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor yacht Yacht 17",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-17-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100797_yacht-17-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000815,
+    "name": "Yacht 18",
+    "model": "Model 18",
+    "modelId": 428155400815,
+    "shipyardId": 40,
+    "year": 2022,
+    "kind": "Catamaran",
+    "certificate": "C161616161616",
+    "homeBaseId": 576,
+    "homeBase": "Athens Marina",
+    "companyId": 842,
+    "company": "Pacific Marine Adventures",
+    "draught": 2.7616893230717325,
+    "beam": 3.6140407813878443,
+    "length": 12.53754278991786,
+    "waterCapacity": 292,
+    "fuelCapacity": 327,
+    "engine": "70 hp",
+    "deposit": 1256,
+    "currency": "EUR",
+    "commissionPercentage": 16,
+    "wc": 2,
+    "berths": 8,
+    "cabins": 5,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 193,
+    "mainsailArea": 56,
+    "genoaArea": 66,
+    "mainsailType": "Classic",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 0,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 14,
+    "images": [
+      {
+        "name": "yacht-18.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image18",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      16,
+      79,
+      37
+    ],
+    "equipment": [
+      {
+        "value": "Linen included",
+        "id": 16
+      },
+      {
+        "value": "Electric winch",
+        "id": 79
+      },
+      {
+        "value": "Autopilot",
+        "id": 37
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 16,
+        "name": "Linen included",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000815,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 313,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  576
+                ],
+                "to": [
+                  36
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 576,
+            "validSailingAreas": [
+              36
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Catamaran Yacht 18",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-18-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100842_yacht-18-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000816,
+    "name": "Yacht 19",
+    "model": "Model 19",
+    "modelId": 428155400816,
+    "shipyardId": 47,
+    "year": 2023,
+    "kind": "Motor boat",
+    "certificate": "C171717171717",
+    "homeBaseId": 467,
+    "homeBase": "Marina Barcelona",
+    "companyId": 869,
+    "company": "Brazilian Yacht Experience",
+    "draught": 2.0346891690106235,
+    "beam": 4.597695849244937,
+    "length": 21.08568149253102,
+    "waterCapacity": 399,
+    "fuelCapacity": 299,
+    "engine": "486 hp",
+    "deposit": 3560,
+    "currency": "EUR",
+    "commissionPercentage": 14,
+    "wc": 1,
+    "berths": 11,
+    "cabins": 2,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 101,
+    "mainsailArea": 79,
+    "genoaArea": 48,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 0,
+    "defaultCheckInDay": 1,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 3,
+    "maxPeopleOnBoard": 8,
+    "images": [
+      {
+        "name": "yacht-19.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image19",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      16,
+      51,
+      37
+    ],
+    "equipment": [
+      {
+        "value": "Linen included",
+        "id": 16
+      },
+      {
+        "value": "Dinghy",
+        "id": 51
+      },
+      {
+        "value": "Autopilot",
+        "id": 37
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 16,
+        "name": "Linen included",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000816,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 404,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  467
+                ],
+                "to": [
+                  45
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 467,
+            "validSailingAreas": [
+              45
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor boat Yacht 19",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-19-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100869_yacht-19-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000817,
+    "name": "Yacht 20",
+    "model": "Model 20",
+    "modelId": 428155400817,
+    "shipyardId": 68,
+    "year": 2020,
+    "kind": "Motor boat",
+    "certificate": "C181818181818",
+    "homeBaseId": 358,
+    "homeBase": "ACI Marina Split",
+    "companyId": 797,
+    "company": "DemoMMK",
+    "draught": 2.5362503514906094,
+    "beam": 5.241337279462915,
+    "length": 12.306226180646371,
+    "waterCapacity": 206,
+    "fuelCapacity": 382,
+    "engine": "686 hp",
+    "deposit": 1206,
+    "currency": "EUR",
+    "commissionPercentage": 10,
+    "wc": 3,
+    "berths": 9,
+    "cabins": 2,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 192,
+    "mainsailArea": 61,
+    "genoaArea": 39,
+    "mainsailType": "Classic",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 6,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 3,
+    "maxPeopleOnBoard": 15,
+    "images": [
+      {
+        "name": "yacht-20.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image20",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      16,
+      58,
+      9
+    ],
+    "equipment": [
+      {
+        "value": "Linen included",
+        "id": 16
+      },
+      {
+        "value": "Outboard engine",
+        "id": 58
+      },
+      {
+        "value": "Bow thruster",
+        "id": 9
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 16,
+        "name": "Linen included",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Skippered",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000817,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 290,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  358
+                ],
+                "to": [
+                  27
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 358,
+            "validSailingAreas": [
+              27
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor boat Yacht 20",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-20-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100797_yacht-20-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000818,
+    "name": "Yacht 21",
+    "model": "Model 21",
+    "modelId": 428155400818,
+    "shipyardId": 40,
+    "year": 2018,
+    "kind": "Sail boat",
+    "certificate": "C191919191919",
+    "homeBaseId": 949,
+    "homeBase": "V&A Waterfront",
+    "companyId": 856,
+    "company": "Caribbean Sailing",
+    "draught": 2.5199229225834974,
+    "beam": 5.176229614544054,
+    "length": 22.335736340395012,
+    "waterCapacity": 150,
+    "fuelCapacity": 336,
+    "engine": "555 hp",
+    "deposit": 4075,
+    "currency": "EUR",
+    "commissionPercentage": 14,
+    "wc": 2,
+    "berths": 9,
+    "cabins": 4,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 141,
+    "mainsailArea": 46,
+    "genoaArea": 46,
+    "mainsailType": "Classic",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 3,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 9,
+    "images": [
+      {
+        "name": "yacht-21.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image21",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      86,
+      37,
+      72
+    ],
+    "equipment": [
+      {
+        "value": "Water maker",
+        "id": 86
+      },
+      {
+        "value": "Autopilot",
+        "id": 37
+      },
+      {
+        "value": "Gennaker",
+        "id": 72
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 86,
+        "name": "Water maker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000818,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 185,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  949
+                ],
+                "to": [
+                  99
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 949,
+            "validSailingAreas": [
+              99
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Sail boat Yacht 21",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-21-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100856_yacht-21-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 21",
+        "description": "Experienced captain of Yacht 21",
+        "age": 38,
+        "nationality": "South Africa",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-21",
+        "languages": [
+          "English",
+          "French"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-21.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100856_captain-21.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000819,
+    "name": "Yacht 22",
+    "model": "Model 22",
+    "modelId": 428155400819,
+    "shipyardId": 68,
+    "year": 2019,
+    "kind": "Catamaran",
+    "certificate": "C202020202020",
+    "homeBaseId": 921,
+    "homeBase": "Cairns Marina",
+    "companyId": 821,
+    "company": "Greek Island Cruises",
+    "draught": 2.098134955269039,
+    "beam": 4.402113044370304,
+    "length": 12.887805930593727,
+    "waterCapacity": 293,
+    "fuelCapacity": 364,
+    "engine": "207 hp",
+    "deposit": 4353,
+    "currency": "EUR",
+    "commissionPercentage": 14,
+    "wc": 1,
+    "berths": 8,
+    "cabins": 5,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 181,
+    "mainsailArea": 60,
+    "genoaArea": 42,
+    "mainsailType": "Classic",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 1,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 10,
+    "images": [
+      {
+        "name": "yacht-22.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image22",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      30,
+      58,
+      30
+    ],
+    "equipment": [
+      {
+        "value": "GPS",
+        "id": 30
+      },
+      {
+        "value": "Outboard engine",
+        "id": 58
+      },
+      {
+        "value": "GPS",
+        "id": 30
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 30,
+        "name": "GPS",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000819,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 260,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  921
+                ],
+                "to": [
+                  81
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 921,
+            "validSailingAreas": [
+              81
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Catamaran Yacht 22",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-22-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100821_yacht-22-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 22",
+        "description": "Experienced captain of Yacht 22",
+        "age": 51,
+        "nationality": "Australia",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-22",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-22.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100821_captain-22.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000820,
+    "name": "Yacht 23",
+    "model": "Model 23",
+    "modelId": 428155400820,
+    "shipyardId": 103,
+    "year": 2024,
+    "kind": "Motor yacht",
+    "certificate": "C212121212121",
+    "homeBaseId": 576,
+    "homeBase": "Athens Marina",
+    "companyId": 813,
+    "company": "Adriatic Sailors",
+    "draught": 2.5310878726737647,
+    "beam": 3.178696431192665,
+    "length": 11.767423294484022,
+    "waterCapacity": 287,
+    "fuelCapacity": 334,
+    "engine": "318 hp",
+    "deposit": 3741,
+    "currency": "EUR",
+    "commissionPercentage": 14,
+    "wc": 3,
+    "berths": 8,
+    "cabins": 7,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 159,
+    "mainsailArea": 87,
+    "genoaArea": 31,
+    "mainsailType": "Classic",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 6,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 8,
+    "images": [
+      {
+        "name": "yacht-23.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image23",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      44,
+      37,
+      23
+    ],
+    "equipment": [
+      {
+        "value": "Radar",
+        "id": 44
+      },
+      {
+        "value": "Autopilot",
+        "id": 37
+      },
+      {
+        "value": "Air Condition",
+        "id": 23
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 44,
+        "name": "Radar",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Skippered",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000820,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 588,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  576
+                ],
+                "to": [
+                  36
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 576,
+            "validSailingAreas": [
+              36
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor yacht Yacht 23",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-23-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100813_yacht-23-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000821,
+    "name": "Yacht 24",
+    "model": "Model 24",
+    "modelId": 428155400821,
+    "shipyardId": 82,
+    "year": 2019,
+    "kind": "RIB",
+    "certificate": "C222222222222",
+    "homeBaseId": 358,
+    "homeBase": "ACI Marina Split",
+    "companyId": 883,
+    "company": "Asian Pacific Yachting",
+    "draught": 1.7647619194436528,
+    "beam": 4.670949893014644,
+    "length": 15.752949874770216,
+    "waterCapacity": 228,
+    "fuelCapacity": 192,
+    "engine": "313 hp",
+    "deposit": 4298,
+    "currency": "EUR",
+    "commissionPercentage": 17,
+    "wc": 2,
+    "berths": 8,
+    "cabins": 2,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 111,
+    "mainsailArea": 74,
+    "genoaArea": 68,
+    "mainsailType": "Furling",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 1,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 15,
+    "images": [
+      {
+        "name": "yacht-24.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image24",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      30,
+      16,
+      86
+    ],
+    "equipment": [
+      {
+        "value": "GPS",
+        "id": 30
+      },
+      {
+        "value": "Linen included",
+        "id": 16
+      },
+      {
+        "value": "Water maker",
+        "id": 86
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 30,
+        "name": "GPS",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000821,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 369,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  358
+                ],
+                "to": [
+                  27
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 358,
+            "validSailingAreas": [
+              27
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for RIB Yacht 24",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-24-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100883_yacht-24-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 24",
+        "description": "Experienced captain of Yacht 24",
+        "age": 51,
+        "nationality": "Croatia",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-24",
+        "languages": [
+          "English",
+          "French"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-24.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100883_captain-24.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000822,
+    "name": "Yacht 25",
+    "model": "Model 25",
+    "modelId": 428155400822,
+    "shipyardId": 68,
+    "year": 2022,
+    "kind": "Superyacht",
+    "certificate": "C232323232323",
+    "homeBaseId": 912,
+    "homeBase": "Marina Rio",
+    "companyId": 883,
+    "company": "Asian Pacific Yachting",
+    "draught": 1.7362891256063993,
+    "beam": 5.628277075245143,
+    "length": 21.649583085244082,
+    "waterCapacity": 326,
+    "fuelCapacity": 163,
+    "engine": "700 hp",
+    "deposit": 4749,
+    "currency": "EUR",
+    "commissionPercentage": 17,
+    "wc": 1,
+    "berths": 6,
+    "cabins": 5,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 192,
+    "mainsailArea": 40,
+    "genoaArea": 68,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 0,
+    "defaultCheckInDay": 3,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 11,
+    "images": [
+      {
+        "name": "yacht-25.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image25",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      30,
+      72,
+      23
+    ],
+    "equipment": [
+      {
+        "value": "GPS",
+        "id": 30
+      },
+      {
+        "value": "Gennaker",
+        "id": 72
+      },
+      {
+        "value": "Air Condition",
+        "id": 23
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 30,
+        "name": "GPS",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000822,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 291,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  912
+                ],
+                "to": [
+                  54
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 912,
+            "validSailingAreas": [
+              54
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Superyacht Yacht 25",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-25-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100883_yacht-25-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 25",
+        "description": "Experienced captain of Yacht 25",
+        "age": 48,
+        "nationality": "Brazil",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-25",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-25.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100883_captain-25.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000823,
+    "name": "Yacht 26",
+    "model": "Model 26",
+    "modelId": 428155400823,
+    "shipyardId": 12,
+    "year": 2021,
+    "kind": "Motor sailer",
+    "certificate": "C242424242424",
+    "homeBaseId": 358,
+    "homeBase": "ACI Marina Split",
+    "companyId": 875,
+    "company": "Cape Sailing Adventures",
+    "draught": 2.2804504636480774,
+    "beam": 5.940588016187545,
+    "length": 15.28538432373244,
+    "waterCapacity": 352,
+    "fuelCapacity": 253,
+    "engine": "360 hp",
+    "deposit": 4749,
+    "currency": "EUR",
+    "commissionPercentage": 17,
+    "wc": 2,
+    "berths": 4,
+    "cabins": 6,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 140,
+    "mainsailArea": 65,
+    "genoaArea": 40,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 4,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 11,
+    "images": [
+      {
+        "name": "yacht-26.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image26",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      16,
+      79,
+      58
+    ],
+    "equipment": [
+      {
+        "value": "Linen included",
+        "id": 16
+      },
+      {
+        "value": "Electric winch",
+        "id": 79
+      },
+      {
+        "value": "Outboard engine",
+        "id": 58
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 16,
+        "name": "Linen included",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000823,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 397,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  358
+                ],
+                "to": [
+                  27
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 358,
+            "validSailingAreas": [
+              27
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor sailer Yacht 26",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-26-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100875_yacht-26-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000824,
+    "name": "Yacht 27",
+    "model": "Model 27",
+    "modelId": 428155400824,
+    "shipyardId": 5,
+    "year": 2025,
+    "kind": "Motor sailer",
+    "certificate": "C252525252525",
+    "homeBaseId": 249,
+    "homeBase": "Sapri",
+    "companyId": 842,
+    "company": "Pacific Marine Adventures",
+    "draught": 2.629010218401224,
+    "beam": 3.145610398994746,
+    "length": 14.626013949916372,
+    "waterCapacity": 364,
+    "fuelCapacity": 265,
+    "engine": "147 hp",
+    "deposit": 1711,
+    "currency": "EUR",
+    "commissionPercentage": 17,
+    "wc": 2,
+    "berths": 12,
+    "cabins": 2,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 140,
+    "mainsailArea": 61,
+    "genoaArea": 60,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 3,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 3,
+    "maxPeopleOnBoard": 14,
+    "images": [
+      {
+        "name": "yacht-27.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image27",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      51,
+      86,
+      79
+    ],
+    "equipment": [
+      {
+        "value": "Dinghy",
+        "id": 51
+      },
+      {
+        "value": "Water maker",
+        "id": 86
+      },
+      {
+        "value": "Electric winch",
+        "id": 79
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 51,
+        "name": "Dinghy",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000824,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 560,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  249
+                ],
+                "to": [
+                  18
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 249,
+            "validSailingAreas": [
+              18
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor sailer Yacht 27",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-27-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100842_yacht-27-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000825,
+    "name": "Yacht 28",
+    "model": "Model 28",
+    "modelId": 428155400825,
+    "shipyardId": 19,
+    "year": 2018,
+    "kind": "Motor yacht",
+    "certificate": "C262626262626",
+    "homeBaseId": 794,
+    "homeBase": "Marina Miami",
+    "companyId": 805,
+    "company": "Mediterranean Yachting",
+    "draught": 1.5392258965869554,
+    "beam": 5.403721277279589,
+    "length": 20.088756211384148,
+    "waterCapacity": 157,
+    "fuelCapacity": 153,
+    "engine": "482 hp",
+    "deposit": 2933,
+    "currency": "EUR",
+    "commissionPercentage": 15,
+    "wc": 1,
+    "berths": 14,
+    "cabins": 5,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 107,
+    "mainsailArea": 50,
+    "genoaArea": 48,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 5,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 12,
+    "images": [
+      {
+        "name": "yacht-28.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image28",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      37,
+      79,
+      9
+    ],
+    "equipment": [
+      {
+        "value": "Autopilot",
+        "id": 37
+      },
+      {
+        "value": "Electric winch",
+        "id": 79
+      },
+      {
+        "value": "Bow thruster",
+        "id": 9
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 37,
+        "name": "Autopilot",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Skippered",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000825,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 200,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  794
+                ],
+                "to": [
+                  63
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 794,
+            "validSailingAreas": [
+              63
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor yacht Yacht 28",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-28-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100805_yacht-28-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000826,
+    "name": "Yacht 29",
+    "model": "Model 29",
+    "modelId": 428155400826,
+    "shipyardId": 89,
+    "year": 2019,
+    "kind": "Catamaran",
+    "certificate": "C272727272727",
+    "homeBaseId": 467,
+    "homeBase": "Marina Barcelona",
+    "companyId": 813,
+    "company": "Adriatic Sailors",
+    "draught": 2.2925861264678864,
+    "beam": 4.152910283833837,
+    "length": 23.795876007086548,
+    "waterCapacity": 193,
+    "fuelCapacity": 305,
+    "engine": "116 hp",
+    "deposit": 3815,
+    "currency": "EUR",
+    "commissionPercentage": 15,
+    "wc": 2,
+    "berths": 9,
+    "cabins": 3,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 122,
+    "mainsailArea": 46,
+    "genoaArea": 53,
+    "mainsailType": "Furling",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 6,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 12,
+    "images": [
+      {
+        "name": "yacht-29.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image29",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      44,
+      79,
+      30
+    ],
+    "equipment": [
+      {
+        "value": "Radar",
+        "id": 44
+      },
+      {
+        "value": "Electric winch",
+        "id": 79
+      },
+      {
+        "value": "GPS",
+        "id": 30
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 44,
+        "name": "Radar",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Skippered",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000826,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 374,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  467
+                ],
+                "to": [
+                  45
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 467,
+            "validSailingAreas": [
+              45
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Catamaran Yacht 29",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-29-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100813_yacht-29-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000827,
+    "name": "Yacht 30",
+    "model": "Model 30",
+    "modelId": 428155400827,
+    "shipyardId": 33,
+    "year": 2018,
+    "kind": "Trimaran",
+    "certificate": "C282828282828",
+    "homeBaseId": 912,
+    "homeBase": "Marina Rio",
+    "companyId": 813,
+    "company": "Adriatic Sailors",
+    "draught": 2.4768737501364275,
+    "beam": 3.6582000037833327,
+    "length": 10.773339110609822,
+    "waterCapacity": 396,
+    "fuelCapacity": 334,
+    "engine": "134 hp",
+    "deposit": 4003,
+    "currency": "EUR",
+    "commissionPercentage": 13,
+    "wc": 2,
+    "berths": 10,
+    "cabins": 7,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 187,
+    "mainsailArea": 49,
+    "genoaArea": 33,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 2,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 3,
+    "maxPeopleOnBoard": 14,
+    "images": [
+      {
+        "name": "yacht-30.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image30",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      86,
+      58,
+      37
+    ],
+    "equipment": [
+      {
+        "value": "Water maker",
+        "id": 86
+      },
+      {
+        "value": "Outboard engine",
+        "id": 58
+      },
+      {
+        "value": "Autopilot",
+        "id": 37
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 86,
+        "name": "Water maker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000827,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 424,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  912
+                ],
+                "to": [
+                  54
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 912,
+            "validSailingAreas": [
+              54
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Trimaran Yacht 30",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-30-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100813_yacht-30-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 30",
+        "description": "Experienced captain of Yacht 30",
+        "age": 56,
+        "nationality": "Brazil",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-30",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-30.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100813_captain-30.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000828,
+    "name": "Yacht 31",
+    "model": "Model 31",
+    "modelId": 428155400828,
+    "shipyardId": 26,
+    "year": 2024,
+    "kind": "Catamaran",
+    "certificate": "C292929292929",
+    "homeBaseId": 794,
+    "homeBase": "Marina Miami",
+    "companyId": 875,
+    "company": "Cape Sailing Adventures",
+    "draught": 2.5074606566277233,
+    "beam": 5.7806326902884155,
+    "length": 24.20994765265558,
+    "waterCapacity": 193,
+    "fuelCapacity": 151,
+    "engine": "298 hp",
+    "deposit": 4578,
+    "currency": "EUR",
+    "commissionPercentage": 13,
+    "wc": 2,
+    "berths": 12,
+    "cabins": 3,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 174,
+    "mainsailArea": 42,
+    "genoaArea": 60,
+    "mainsailType": "Classic",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 4,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 12,
+    "images": [
+      {
+        "name": "yacht-31.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image31",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      86,
+      58,
+      23
+    ],
+    "equipment": [
+      {
+        "value": "Water maker",
+        "id": 86
+      },
+      {
+        "value": "Outboard engine",
+        "id": 58
+      },
+      {
+        "value": "Air Condition",
+        "id": 23
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 86,
+        "name": "Water maker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Skippered",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000828,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 498,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  794
+                ],
+                "to": [
+                  63
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 794,
+            "validSailingAreas": [
+              63
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Catamaran Yacht 31",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-31-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100875_yacht-31-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000829,
+    "name": "Yacht 32",
+    "model": "Model 32",
+    "modelId": 428155400829,
+    "shipyardId": 68,
+    "year": 2024,
+    "kind": "Motor yacht",
+    "certificate": "C303030303030",
+    "homeBaseId": 912,
+    "homeBase": "Marina Rio",
+    "companyId": 856,
+    "company": "Caribbean Sailing",
+    "draught": 1.851756847118387,
+    "beam": 3.398731735737277,
+    "length": 15.52214130891627,
+    "waterCapacity": 155,
+    "fuelCapacity": 309,
+    "engine": "532 hp",
+    "deposit": 2877,
+    "currency": "EUR",
+    "commissionPercentage": 14,
+    "wc": 3,
+    "berths": 8,
+    "cabins": 2,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 124,
+    "mainsailArea": 52,
+    "genoaArea": 35,
+    "mainsailType": "Classic",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 5,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 13,
+    "images": [
+      {
+        "name": "yacht-32.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image32",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      72,
+      86,
+      23
+    ],
+    "equipment": [
+      {
+        "value": "Gennaker",
+        "id": 72
+      },
+      {
+        "value": "Water maker",
+        "id": 86
+      },
+      {
+        "value": "Air Condition",
+        "id": 23
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 72,
+        "name": "Gennaker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000829,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 167,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  912
+                ],
+                "to": [
+                  54
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 912,
+            "validSailingAreas": [
+              54
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor yacht Yacht 32",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-32-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100856_yacht-32-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 32",
+        "description": "Experienced captain of Yacht 32",
+        "age": 55,
+        "nationality": "Brazil",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-32",
+        "languages": [
+          "English",
+          "French"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-32.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100856_captain-32.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000830,
+    "name": "Yacht 33",
+    "model": "Model 33",
+    "modelId": 428155400830,
+    "shipyardId": 5,
+    "year": 2023,
+    "kind": "Trimaran",
+    "certificate": "C313131313131",
+    "homeBaseId": 685,
+    "homeBase": "Port de Marseille",
+    "companyId": 869,
+    "company": "Brazilian Yacht Experience",
+    "draught": 2.801418309536957,
+    "beam": 3.8371046236026984,
+    "length": 12.66583985677602,
+    "waterCapacity": 242,
+    "fuelCapacity": 369,
+    "engine": "351 hp",
+    "deposit": 4785,
+    "currency": "EUR",
+    "commissionPercentage": 16,
+    "wc": 1,
+    "berths": 15,
+    "cabins": 7,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 159,
+    "mainsailArea": 78,
+    "genoaArea": 61,
+    "mainsailType": "Furling",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 5,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 13,
+    "images": [
+      {
+        "name": "yacht-33.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image33",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      30,
+      58,
+      79
+    ],
+    "equipment": [
+      {
+        "value": "GPS",
+        "id": 30
+      },
+      {
+        "value": "Outboard engine",
+        "id": 58
+      },
+      {
+        "value": "Electric winch",
+        "id": 79
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 30,
+        "name": "GPS",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000830,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 337,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  685
+                ],
+                "to": [
+                  16
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 685,
+            "validSailingAreas": [
+              16
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Trimaran Yacht 33",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-33-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100869_yacht-33-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000831,
+    "name": "Yacht 34",
+    "model": "Model 34",
+    "modelId": 428155400831,
+    "shipyardId": 89,
+    "year": 2020,
+    "kind": "Motor yacht",
+    "certificate": "C323232323232",
+    "homeBaseId": 467,
+    "homeBase": "Marina Barcelona",
+    "companyId": 813,
+    "company": "Adriatic Sailors",
+    "draught": 1.949004588055905,
+    "beam": 5.460511847098045,
+    "length": 24.174733325432733,
+    "waterCapacity": 340,
+    "fuelCapacity": 330,
+    "engine": "591 hp",
+    "deposit": 3842,
+    "currency": "EUR",
+    "commissionPercentage": 13,
+    "wc": 2,
+    "berths": 14,
+    "cabins": 5,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 171,
+    "mainsailArea": 72,
+    "genoaArea": 35,
+    "mainsailType": "Classic",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 0,
+    "defaultCheckInDay": 5,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 14,
+    "images": [
+      {
+        "name": "yacht-34.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image34",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      51,
+      16,
+      65
+    ],
+    "equipment": [
+      {
+        "value": "Dinghy",
+        "id": 51
+      },
+      {
+        "value": "Linen included",
+        "id": 16
+      },
+      {
+        "value": "Spinnaker",
+        "id": 65
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 51,
+        "name": "Dinghy",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Skippered",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000831,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 283,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  467
+                ],
+                "to": [
+                  45
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 467,
+            "validSailingAreas": [
+              45
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor yacht Yacht 34",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-34-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100813_yacht-34-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 34",
+        "description": "Experienced captain of Yacht 34",
+        "age": 37,
+        "nationality": "Spain",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-34",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-34.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100813_captain-34.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000832,
+    "name": "Yacht 35",
+    "model": "Model 35",
+    "modelId": 428155400832,
+    "shipyardId": 75,
+    "year": 2025,
+    "kind": "Gulet",
+    "certificate": "C333333333333",
+    "homeBaseId": 249,
+    "homeBase": "Sapri",
+    "companyId": 875,
+    "company": "Cape Sailing Adventures",
+    "draught": 1.599599126093218,
+    "beam": 5.6555389247907435,
+    "length": 23.216129084474396,
+    "waterCapacity": 357,
+    "fuelCapacity": 185,
+    "engine": "473 hp",
+    "deposit": 3760,
+    "currency": "EUR",
+    "commissionPercentage": 12,
+    "wc": 3,
+    "berths": 13,
+    "cabins": 3,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 118,
+    "mainsailArea": 42,
+    "genoaArea": 63,
+    "mainsailType": "Furling",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 0,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 13,
+    "images": [
+      {
+        "name": "yacht-35.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image35",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      79,
+      30,
+      30
+    ],
+    "equipment": [
+      {
+        "value": "Electric winch",
+        "id": 79
+      },
+      {
+        "value": "GPS",
+        "id": 30
+      },
+      {
+        "value": "GPS",
+        "id": 30
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 79,
+        "name": "Electric winch",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000832,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 229,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  249
+                ],
+                "to": [
+                  18
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 249,
+            "validSailingAreas": [
+              18
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Gulet Yacht 35",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-35-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100875_yacht-35-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000833,
+    "name": "Yacht 36",
+    "model": "Model 36",
+    "modelId": 428155400833,
+    "shipyardId": 19,
+    "year": 2018,
+    "kind": "Ketch",
+    "certificate": "C343434343434",
+    "homeBaseId": 576,
+    "homeBase": "Athens Marina",
+    "companyId": 797,
+    "company": "DemoMMK",
+    "draught": 1.7399118350248268,
+    "beam": 4.800412311106065,
+    "length": 11.175579390920182,
+    "waterCapacity": 217,
+    "fuelCapacity": 389,
+    "engine": "602 hp",
+    "deposit": 1342,
+    "currency": "EUR",
+    "commissionPercentage": 14,
+    "wc": 1,
+    "berths": 4,
+    "cabins": 2,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 151,
+    "mainsailArea": 77,
+    "genoaArea": 33,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 4,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 3,
+    "maxPeopleOnBoard": 13,
+    "images": [
+      {
+        "name": "yacht-36.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image36",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      72,
+      9,
+      9
+    ],
+    "equipment": [
+      {
+        "value": "Gennaker",
+        "id": 72
+      },
+      {
+        "value": "Bow thruster",
+        "id": 9
+      },
+      {
+        "value": "Bow thruster",
+        "id": 9
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 72,
+        "name": "Gennaker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000833,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 297,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  576
+                ],
+                "to": [
+                  36
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 576,
+            "validSailingAreas": [
+              36
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Ketch Yacht 36",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-36-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100797_yacht-36-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 36",
+        "description": "Experienced captain of Yacht 36",
+        "age": 49,
+        "nationality": "Greece",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-36",
+        "languages": [
+          "English",
+          "French"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-36.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100797_captain-36.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000834,
+    "name": "Yacht 37",
+    "model": "Model 37",
+    "modelId": 428155400834,
+    "shipyardId": 103,
+    "year": 2020,
+    "kind": "Gulet",
+    "certificate": "C353535353535",
+    "homeBaseId": 921,
+    "homeBase": "Cairns Marina",
+    "companyId": 805,
+    "company": "Mediterranean Yachting",
+    "draught": 2.0120057610804336,
+    "beam": 4.462138112095377,
+    "length": 20.80636366119301,
+    "waterCapacity": 168,
+    "fuelCapacity": 356,
+    "engine": "61 hp",
+    "deposit": 2645,
+    "currency": "EUR",
+    "commissionPercentage": 10,
+    "wc": 3,
+    "berths": 4,
+    "cabins": 2,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 104,
+    "mainsailArea": 82,
+    "genoaArea": 59,
+    "mainsailType": "Furling",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 1,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 7,
+    "images": [
+      {
+        "name": "yacht-37.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image37",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      86,
+      51,
+      65
+    ],
+    "equipment": [
+      {
+        "value": "Water maker",
+        "id": 86
+      },
+      {
+        "value": "Dinghy",
+        "id": 51
+      },
+      {
+        "value": "Spinnaker",
+        "id": 65
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 86,
+        "name": "Water maker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Skippered",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000834,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 240,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  921
+                ],
+                "to": [
+                  81
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 921,
+            "validSailingAreas": [
+              81
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Gulet Yacht 37",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-37-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100805_yacht-37-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000835,
+    "name": "Yacht 38",
+    "model": "Model 38",
+    "modelId": 428155400835,
+    "shipyardId": 33,
+    "year": 2018,
+    "kind": "Ketch",
+    "certificate": "C363636363636",
+    "homeBaseId": 467,
+    "homeBase": "Marina Barcelona",
+    "companyId": 856,
+    "company": "Caribbean Sailing",
+    "draught": 2.9106230619713354,
+    "beam": 3.6181039042971928,
+    "length": 24.036665267018627,
+    "waterCapacity": 160,
+    "fuelCapacity": 223,
+    "engine": "66 hp",
+    "deposit": 4453,
+    "currency": "EUR",
+    "commissionPercentage": 17,
+    "wc": 2,
+    "berths": 6,
+    "cabins": 3,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 175,
+    "mainsailArea": 58,
+    "genoaArea": 46,
+    "mainsailType": "Classic",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 5,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 6,
+    "images": [
+      {
+        "name": "yacht-38.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image38",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      86,
+      37,
+      9
+    ],
+    "equipment": [
+      {
+        "value": "Water maker",
+        "id": 86
+      },
+      {
+        "value": "Autopilot",
+        "id": 37
+      },
+      {
+        "value": "Bow thruster",
+        "id": 9
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 86,
+        "name": "Water maker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000835,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 417,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  467
+                ],
+                "to": [
+                  45
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 467,
+            "validSailingAreas": [
+              45
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Ketch Yacht 38",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-38-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100856_yacht-38-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000836,
+    "name": "Yacht 39",
+    "model": "Model 39",
+    "modelId": 428155400836,
+    "shipyardId": 82,
+    "year": 2023,
+    "kind": "RIB",
+    "certificate": "C373737373737",
+    "homeBaseId": 949,
+    "homeBase": "V&A Waterfront",
+    "companyId": 805,
+    "company": "Mediterranean Yachting",
+    "draught": 2.802811875276346,
+    "beam": 4.917190363559878,
+    "length": 13.892223683696123,
+    "waterCapacity": 380,
+    "fuelCapacity": 201,
+    "engine": "531 hp",
+    "deposit": 1415,
+    "currency": "EUR",
+    "commissionPercentage": 14,
+    "wc": 1,
+    "berths": 7,
+    "cabins": 6,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 170,
+    "mainsailArea": 40,
+    "genoaArea": 61,
+    "mainsailType": "Classic",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 2,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 8,
+    "images": [
+      {
+        "name": "yacht-39.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image39",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      65,
+      44,
+      44
+    ],
+    "equipment": [
+      {
+        "value": "Spinnaker",
+        "id": 65
+      },
+      {
+        "value": "Radar",
+        "id": 44
+      },
+      {
+        "value": "Radar",
+        "id": 44
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 65,
+        "name": "Spinnaker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000836,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 220,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  949
+                ],
+                "to": [
+                  99
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 949,
+            "validSailingAreas": [
+              99
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for RIB Yacht 39",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-39-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100805_yacht-39-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 39",
+        "description": "Experienced captain of Yacht 39",
+        "age": 40,
+        "nationality": "South Africa",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-39",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-39.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100805_captain-39.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000837,
+    "name": "Yacht 40",
+    "model": "Model 40",
+    "modelId": 428155400837,
+    "shipyardId": 47,
+    "year": 2025,
+    "kind": "Trimaran",
+    "certificate": "C383838383838",
+    "homeBaseId": 930,
+    "homeBase": "Tokyo Bay Marina",
+    "companyId": 869,
+    "company": "Brazilian Yacht Experience",
+    "draught": 2.8203742893672725,
+    "beam": 5.296930367931445,
+    "length": 21.682446987041633,
+    "waterCapacity": 349,
+    "fuelCapacity": 296,
+    "engine": "731 hp",
+    "deposit": 2875,
+    "currency": "EUR",
+    "commissionPercentage": 13,
+    "wc": 1,
+    "berths": 10,
+    "cabins": 7,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 102,
+    "mainsailArea": 47,
+    "genoaArea": 43,
+    "mainsailType": "Classic",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 4,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 8,
+    "images": [
+      {
+        "name": "yacht-40.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image40",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      72,
+      79,
+      16
+    ],
+    "equipment": [
+      {
+        "value": "Gennaker",
+        "id": 72
+      },
+      {
+        "value": "Electric winch",
+        "id": 79
+      },
+      {
+        "value": "Linen included",
+        "id": 16
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 72,
+        "name": "Gennaker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Skippered",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000837,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 127,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  930
+                ],
+                "to": [
+                  90
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 930,
+            "validSailingAreas": [
+              90
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Trimaran Yacht 40",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-40-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100869_yacht-40-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 40",
+        "description": "Experienced captain of Yacht 40",
+        "age": 59,
+        "nationality": "Japan",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-40",
+        "languages": [
+          "English",
+          "French"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-40.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100869_captain-40.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000838,
+    "name": "Yacht 41",
+    "model": "Model 41",
+    "modelId": 428155400838,
+    "shipyardId": 61,
+    "year": 2024,
+    "kind": "Motor yacht",
+    "certificate": "C393939393939",
+    "homeBaseId": 912,
+    "homeBase": "Marina Rio",
+    "companyId": 821,
+    "company": "Greek Island Cruises",
+    "draught": 2.8874184737209627,
+    "beam": 3.562924506395634,
+    "length": 22.138134976201663,
+    "waterCapacity": 164,
+    "fuelCapacity": 285,
+    "engine": "261 hp",
+    "deposit": 3224,
+    "currency": "EUR",
+    "commissionPercentage": 15,
+    "wc": 3,
+    "berths": 8,
+    "cabins": 6,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 133,
+    "mainsailArea": 72,
+    "genoaArea": 63,
+    "mainsailType": "Furling",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 6,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 3,
+    "maxPeopleOnBoard": 9,
+    "images": [
+      {
+        "name": "yacht-41.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image41",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      79,
+      23,
+      30
+    ],
+    "equipment": [
+      {
+        "value": "Electric winch",
+        "id": 79
+      },
+      {
+        "value": "Air Condition",
+        "id": 23
+      },
+      {
+        "value": "GPS",
+        "id": 30
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 79,
+        "name": "Electric winch",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000838,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 192,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  912
+                ],
+                "to": [
+                  54
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 912,
+            "validSailingAreas": [
+              54
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor yacht Yacht 41",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-41-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100821_yacht-41-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000839,
+    "name": "Yacht 42",
+    "model": "Model 42",
+    "modelId": 428155400839,
+    "shipyardId": 19,
+    "year": 2022,
+    "kind": "Motor sailer",
+    "certificate": "C404040404040",
+    "homeBaseId": 930,
+    "homeBase": "Tokyo Bay Marina",
+    "companyId": 834,
+    "company": "Florida Yacht Charters",
+    "draught": 2.048729450478233,
+    "beam": 3.1667042322132453,
+    "length": 19.875889982167998,
+    "waterCapacity": 296,
+    "fuelCapacity": 266,
+    "engine": "574 hp",
+    "deposit": 3062,
+    "currency": "EUR",
+    "commissionPercentage": 11,
+    "wc": 1,
+    "berths": 10,
+    "cabins": 4,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 128,
+    "mainsailArea": 53,
+    "genoaArea": 69,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 0,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 11,
+    "images": [
+      {
+        "name": "yacht-42.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image42",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      44,
+      51,
+      37
+    ],
+    "equipment": [
+      {
+        "value": "Radar",
+        "id": 44
+      },
+      {
+        "value": "Dinghy",
+        "id": 51
+      },
+      {
+        "value": "Autopilot",
+        "id": 37
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 44,
+        "name": "Radar",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000839,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 185,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  930
+                ],
+                "to": [
+                  90
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 930,
+            "validSailingAreas": [
+              90
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor sailer Yacht 42",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-42-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100834_yacht-42-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000840,
+    "name": "Yacht 43",
+    "model": "Model 43",
+    "modelId": 428155400840,
+    "shipyardId": 5,
+    "year": 2022,
+    "kind": "Sail boat",
+    "certificate": "C414141414141",
+    "homeBaseId": 576,
+    "homeBase": "Athens Marina",
+    "companyId": 821,
+    "company": "Greek Island Cruises",
+    "draught": 2.8460319344148752,
+    "beam": 3.8646698705638975,
+    "length": 19.741017890468203,
+    "waterCapacity": 215,
+    "fuelCapacity": 324,
+    "engine": "576 hp",
+    "deposit": 3238,
+    "currency": "EUR",
+    "commissionPercentage": 10,
+    "wc": 2,
+    "berths": 12,
+    "cabins": 6,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 124,
+    "mainsailArea": 80,
+    "genoaArea": 44,
+    "mainsailType": "Classic",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 6,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 9,
+    "images": [
+      {
+        "name": "yacht-43.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image43",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      65,
+      51,
+      30
+    ],
+    "equipment": [
+      {
+        "value": "Spinnaker",
+        "id": 65
+      },
+      {
+        "value": "Dinghy",
+        "id": 51
+      },
+      {
+        "value": "GPS",
+        "id": 30
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 65,
+        "name": "Spinnaker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000840,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 370,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  576
+                ],
+                "to": [
+                  36
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 576,
+            "validSailingAreas": [
+              36
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Sail boat Yacht 43",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-43-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100821_yacht-43-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000841,
+    "name": "Yacht 44",
+    "model": "Model 44",
+    "modelId": 428155400841,
+    "shipyardId": 89,
+    "year": 2021,
+    "kind": "Ketch",
+    "certificate": "C424242424242",
+    "homeBaseId": 921,
+    "homeBase": "Cairns Marina",
+    "companyId": 869,
+    "company": "Brazilian Yacht Experience",
+    "draught": 2.7894045462375647,
+    "beam": 4.841095867523718,
+    "length": 17.35698146236294,
+    "waterCapacity": 154,
+    "fuelCapacity": 267,
+    "engine": "502 hp",
+    "deposit": 3988,
+    "currency": "EUR",
+    "commissionPercentage": 14,
+    "wc": 1,
+    "berths": 8,
+    "cabins": 7,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 107,
+    "mainsailArea": 46,
+    "genoaArea": 30,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 5,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 15,
+    "images": [
+      {
+        "name": "yacht-44.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image44",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      65,
+      16,
+      44
+    ],
+    "equipment": [
+      {
+        "value": "Spinnaker",
+        "id": 65
+      },
+      {
+        "value": "Linen included",
+        "id": 16
+      },
+      {
+        "value": "Radar",
+        "id": 44
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 65,
+        "name": "Spinnaker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Skippered",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000841,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 516,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  921
+                ],
+                "to": [
+                  81
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 921,
+            "validSailingAreas": [
+              81
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Ketch Yacht 44",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-44-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100869_yacht-44-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000842,
+    "name": "Yacht 45",
+    "model": "Model 45",
+    "modelId": 428155400842,
+    "shipyardId": 26,
+    "year": 2020,
+    "kind": "Sail boat",
+    "certificate": "C434343434343",
+    "homeBaseId": 921,
+    "homeBase": "Cairns Marina",
+    "companyId": 869,
+    "company": "Brazilian Yacht Experience",
+    "draught": 2.325013103017181,
+    "beam": 5.1713999859813695,
+    "length": 22.629070072832036,
+    "waterCapacity": 341,
+    "fuelCapacity": 199,
+    "engine": "245 hp",
+    "deposit": 1365,
+    "currency": "EUR",
+    "commissionPercentage": 15,
+    "wc": 2,
+    "berths": 8,
+    "cabins": 4,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 178,
+    "mainsailArea": 70,
+    "genoaArea": 68,
+    "mainsailType": "Furling",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 0,
+    "defaultCheckInDay": 0,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 11,
+    "images": [
+      {
+        "name": "yacht-45.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image45",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      30,
+      51,
+      44
+    ],
+    "equipment": [
+      {
+        "value": "GPS",
+        "id": 30
+      },
+      {
+        "value": "Dinghy",
+        "id": 51
+      },
+      {
+        "value": "Radar",
+        "id": 44
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 30,
+        "name": "GPS",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000842,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 462,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  921
+                ],
+                "to": [
+                  81
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 921,
+            "validSailingAreas": [
+              81
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Sail boat Yacht 45",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-45-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100869_yacht-45-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 45",
+        "description": "Experienced captain of Yacht 45",
+        "age": 49,
+        "nationality": "Australia",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-45",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-45.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100869_captain-45.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000843,
+    "name": "Yacht 46",
+    "model": "Model 46",
+    "modelId": 428155400843,
+    "shipyardId": 54,
+    "year": 2025,
+    "kind": "Motor yacht",
+    "certificate": "C444444444444",
+    "homeBaseId": 921,
+    "homeBase": "Cairns Marina",
+    "companyId": 842,
+    "company": "Pacific Marine Adventures",
+    "draught": 2.5703037738652093,
+    "beam": 3.3420325652799856,
+    "length": 21.418706318787038,
+    "waterCapacity": 273,
+    "fuelCapacity": 363,
+    "engine": "263 hp",
+    "deposit": 2416,
+    "currency": "EUR",
+    "commissionPercentage": 13,
+    "wc": 2,
+    "berths": 14,
+    "cabins": 5,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 183,
+    "mainsailArea": 76,
+    "genoaArea": 37,
+    "mainsailType": "Classic",
+    "genoaType": "Self Tacking Jib",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 0,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 13,
+    "images": [
+      {
+        "name": "yacht-46.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image46",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      72,
+      37,
+      72
+    ],
+    "equipment": [
+      {
+        "value": "Gennaker",
+        "id": 72
+      },
+      {
+        "value": "Autopilot",
+        "id": 37
+      },
+      {
+        "value": "Gennaker",
+        "id": 72
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 72,
+        "name": "Gennaker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Skippered",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000843,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 456,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  921
+                ],
+                "to": [
+                  81
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 921,
+            "validSailingAreas": [
+              81
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Motor yacht Yacht 46",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-46-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100842_yacht-46-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  },
+  {
+    "id": 8860335000844,
+    "name": "Yacht 47",
+    "model": "Model 47",
+    "modelId": 428155400844,
+    "shipyardId": 82,
+    "year": 2024,
+    "kind": "Superyacht",
+    "certificate": "C454545454545",
+    "homeBaseId": 912,
+    "homeBase": "Marina Rio",
+    "companyId": 842,
+    "company": "Pacific Marine Adventures",
+    "draught": 1.880613987678108,
+    "beam": 3.1009428089410918,
+    "length": 16.42745998119402,
+    "waterCapacity": 399,
+    "fuelCapacity": 339,
+    "engine": "157 hp",
+    "deposit": 4715,
+    "currency": "EUR",
+    "commissionPercentage": 11,
+    "wc": 1,
+    "berths": 6,
+    "cabins": 4,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 128,
+    "mainsailArea": 42,
+    "genoaArea": 38,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 5,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 3,
+    "maxPeopleOnBoard": 13,
+    "images": [
+      {
+        "name": "yacht-47.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image47",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      16,
+      44,
+      23
+    ],
+    "equipment": [
+      {
+        "value": "Linen included",
+        "id": 16
+      },
+      {
+        "value": "Radar",
+        "id": 44
+      },
+      {
+        "value": "Air Condition",
+        "id": 23
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 16,
+        "name": "Linen included",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": true,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000844,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 486,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  912
+                ],
+                "to": [
+                  54
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 912,
+            "validSailingAreas": [
+              54
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Superyacht Yacht 47",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-47-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100842_yacht-47-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 47",
+        "description": "Experienced captain of Yacht 47",
+        "age": 59,
+        "nationality": "Brazil",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-47",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-47.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100842_captain-47.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000845,
+    "name": "Yacht 48",
+    "model": "Model 48",
+    "modelId": 428155400845,
+    "shipyardId": 89,
+    "year": 2024,
+    "kind": "Ketch",
+    "certificate": "C464646464646",
+    "homeBaseId": 912,
+    "homeBase": "Marina Rio",
+    "companyId": 856,
+    "company": "Caribbean Sailing",
+    "draught": 1.9743772242461177,
+    "beam": 5.540800914429004,
+    "length": 17.66527243167308,
+    "waterCapacity": 191,
+    "fuelCapacity": 206,
+    "engine": "88 hp",
+    "deposit": 1872,
+    "currency": "EUR",
+    "commissionPercentage": 15,
+    "wc": 3,
+    "berths": 15,
+    "cabins": 4,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 101,
+    "mainsailArea": 77,
+    "genoaArea": 46,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 0,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 7,
+    "maxPeopleOnBoard": 6,
+    "images": [
+      {
+        "name": "yacht-48.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image48",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      72,
+      51,
+      16
+    ],
+    "equipment": [
+      {
+        "value": "Gennaker",
+        "id": 72
+      },
+      {
+        "value": "Dinghy",
+        "id": 51
+      },
+      {
+        "value": "Linen included",
+        "id": 16
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 72,
+        "name": "Gennaker",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000845,
+            "name": "Fuel",
+            "obligatory": true,
+            "price": 567,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  912
+                ],
+                "to": [
+                  54
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 912,
+            "validSailingAreas": [
+              54
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Ketch Yacht 48",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-48-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100856_yacht-48-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": [
+      {
+        "name": "Captain 48",
+        "description": "Experienced captain of Yacht 48",
+        "age": 58,
+        "nationality": "Brazil",
+        "roles": [
+          "Captain"
+        ],
+        "licenses": "LICENSE-48",
+        "languages": [
+          "English",
+          "Italian"
+        ],
+        "images": [
+          {
+            "id": 4469909500000102000,
+            "name": "captain-48.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100856_captain-48.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8860335000846,
+    "name": "Yacht 49",
+    "model": "Model 49",
+    "modelId": 428155400846,
+    "shipyardId": 75,
+    "year": 2020,
+    "kind": "Sail boat",
+    "certificate": "C474747474747",
+    "homeBaseId": 949,
+    "homeBase": "V&A Waterfront",
+    "companyId": 834,
+    "company": "Florida Yacht Charters",
+    "draught": 2.4048534872477516,
+    "beam": 5.1988940489614475,
+    "length": 14.74619825002208,
+    "waterCapacity": 160,
+    "fuelCapacity": 357,
+    "engine": "332 hp",
+    "deposit": 2431,
+    "currency": "EUR",
+    "commissionPercentage": 11,
+    "wc": 3,
+    "berths": 12,
+    "cabins": 5,
+    "wcNote": "Standard marine toilets",
+    "berthsNote": "Comfortable berths",
+    "cabinsNote": "Spacious cabins",
+    "transitLog": 153,
+    "mainsailArea": 60,
+    "genoaArea": 66,
+    "mainsailType": "Furling",
+    "genoaType": "Roller",
+    "requiredSkipperLicense": 1,
+    "defaultCheckInDay": 3,
+    "defaultCheckInTime": "17:00",
+    "defaultCheckOutTime": "9:00",
+    "minimumCharterDuration": 3,
+    "maxPeopleOnBoard": 6,
+    "images": [
+      {
+        "name": "yacht-49.jpg",
+        "description": "Yacht image",
+        "url": "http://www.booking-manager.com/image49",
+        "sortOrder": 1
+      }
+    ],
+    "equipmentIds": [
+      23,
+      44,
+      16
+    ],
+    "equipment": [
+      {
+        "value": "Air Condition",
+        "id": 23
+      },
+      {
+        "value": "Radar",
+        "id": 44
+      },
+      {
+        "value": "Linen included",
+        "id": 16
+      }
+    ],
+    "equipmentRaw": [
+      {
+        "id": 667400400000100000,
+        "parentId": 23,
+        "name": "Air Condition",
+        "value": "In good condition",
+        "categoryName": "Additional equipment"
+      }
+    ],
+    "products": [
+      {
+        "name": "Bareboat",
+        "crewedByDefault": false,
+        "isDefaultProduct": true,
+        "extras": [
+          {
+            "id": 8860335000846,
+            "name": "Final cleaning",
+            "obligatory": true,
+            "price": 170,
+            "currency": "EUR",
+            "unit": "per booking",
+            "payableInBase": true,
+            "includedDepositWaiver": false,
+            "validDaysFrom": 0,
+            "validDaysTo": 365,
+            "validForBases": [
+              {
+                "from": [
+                  949
+                ],
+                "to": [
+                  99
+                ]
+              }
+            ],
+            "validDateFrom": "2019-01-01 00:00:00",
+            "validDateTo": "2025-12-31 00:00:00",
+            "description": "Mandatory fee",
+            "availableInBase": 949,
+            "validSailingAreas": [
+              99
+            ]
+          }
+        ]
+      }
+    ],
+    "descriptions": [
+      {
+        "category": "general",
+        "text": "This is a description for Sail boat Yacht 49",
+        "document": [
+          {
+            "id": 4469909500000101000,
+            "name": "yacht-49-doc.jpg",
+            "description": "",
+            "url": "https://www.booking-manager.com/cbm/documents/4469910710000100834_yacht-49-doc.jpg",
+            "sortOrder": 0
+          }
+        ]
+      }
+    ],
+    "crew": []
+  }
+]
