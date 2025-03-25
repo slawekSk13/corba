@@ -4,7 +4,8 @@ import { Bases } from "../../entities/bases/bases.component.tsx";
 import { Yachts } from "../../entities/yachts/yachts.component.tsx";
 import { Countries } from "../../entities/countries/countries.component.tsx";
 import { SailingAreas } from "../../entities/sailing-areas/sailing-areas.component.tsx";
-import { DateRange } from "../date-range.component.tsx";
+import { DateRange } from "../date-range/date-range.component.tsx";
+import { RangePicker } from "../range-picker/range-picker.component.tsx";
 
 export const MainLayout: FC = () => {
   return (
@@ -26,6 +27,17 @@ export const MainLayout: FC = () => {
           <DateRange />
         </Grid2>
         <Divider />
+        <Grid2>
+          <RangePicker entityName={"length"} label={"Długość"} />
+          <RangePicker entityName={"year"} label={"Rok budowy"} />
+          <RangePicker
+            entityName={"maxPeopleOnBoard"}
+            label={"Maksymalna załoga"}
+          />
+          <RangePicker entityName={"cabins"} label={"Kabiny"} />
+          <RangePicker entityName={"berths"} label={"Koje"} />
+          <RangePicker entityName={"wc"} label={"Toalety"} />
+        </Grid2>
       </Grid2>
       <Grid2 size={9}>
         <Yachts />

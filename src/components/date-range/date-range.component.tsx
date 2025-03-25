@@ -1,7 +1,7 @@
 import { DatePicker } from "@mui/x-date-pickers";
 import dayjs from "dayjs";
 import { useNavigate, useSearch } from "@tanstack/react-router";
-import { FilterEntity, Timeframe } from "../types/filter.types.ts";
+import { FilterEntity, Timeframe } from "../../types/filter.types.ts";
 import { useCallback } from "react";
 
 export const DateRange = () => {
@@ -23,6 +23,7 @@ export const DateRange = () => {
     },
     [navigate],
   );
+
   return (
     <>
       <DatePicker
