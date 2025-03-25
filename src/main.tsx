@@ -7,7 +7,7 @@ import {
   createRouter,
   RouterProvider,
 } from "@tanstack/react-router";
-import { SelectEntity } from "./components/select/select.const.ts";
+import { SelectEntity } from "./types/filter.types.ts";
 
 const rootRoute = createRootRoute({
   component: App,
@@ -18,6 +18,6 @@ const router = createRouter({ routeTree: rootRoute });
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <RouterProvider router={router} />{" "}
+    <RouterProvider router={router} />
   </StrictMode>,
 );

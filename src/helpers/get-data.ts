@@ -1,4 +1,6 @@
-export async function getData(path: string) {
+import { Endpoint } from "../types/endpoints.types.ts";
+
+export async function getData(path: Endpoint) {
   const envVars = import.meta.env;
   const server =
     envVars.VITE_ENVIRONMENT === "production"

@@ -1,3 +1,5 @@
+import { SelectEntity } from "../../types/filter.types.ts";
+
 export type SelectProps<T extends { id: number }> = {
   entityName: SelectEntity;
   data: T[];
@@ -5,5 +7,3 @@ export type SelectProps<T extends { id: number }> = {
   label: string;
   dependantEntities?: SelectEntity[];
 };
-
-export type SelectEntity = "baseIds" | "countryIds";

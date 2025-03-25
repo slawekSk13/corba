@@ -1,5 +1,5 @@
-import { useData } from "../../helpers/use-data.ts";
-import { CountriesResponse } from "../../types/types.ts";
+import { useData } from "../../helpers/use-data.helper.ts";
+import { CountriesResponse } from "../../types/response.types.ts";
 
 import { Select } from "../../components/select/select.component.tsx";
 
@@ -12,7 +12,7 @@ export const Countries = () => {
       data={data || []}
       labelKey={"name"}
       label={"Kraj"}
-      dependantEntities={["baseIds"]}
+      dependantEntities={["baseIds", "sailingAreas"]}
     />
   );
 };

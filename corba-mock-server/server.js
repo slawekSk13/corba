@@ -30,7 +30,7 @@ app.get("/countries", (req, res) => {
 });
 
 app.get("/worldRegions", (req, res) => {
-  const data = loadData("worldRegions.json");
+  const data = loadData("world-regions.json");
   res.json(data);
 });
 
@@ -40,7 +40,7 @@ app.get("/yachts", (req, res) => {
 });
 
 app.get("/sailingAreas", (req, res) => {
-  const data = loadData("sailingAreas.json");
+  const data = loadData("sailing-areas.json");
   res.json(data);
 });
 
@@ -65,7 +65,7 @@ app.get("/shipyards", (req, res) => {
 });
 
 app.get("/yachtTypes", (req, res) => {
-  const data = loadData("yachtTypes.json");
+  const data = loadData("yacht-types.json");
   res.json(data);
 });
 
