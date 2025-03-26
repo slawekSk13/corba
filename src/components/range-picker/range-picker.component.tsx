@@ -4,6 +4,7 @@ import { useCallback } from "react";
 import { Box, Slider, Typography } from "@mui/material";
 import { useData } from "../../helpers/use-data.helper.ts";
 import { YachtsResponse } from "../../types/response.types.ts";
+import { isEqual } from "lodash";
 
 export const RangePicker = ({
   entityName,
@@ -44,9 +45,13 @@ export const RangePicker = ({
           getAriaLabel={() => label}
           value={search[entityName] ?? extremeValues}
           onChange={({ target }) => {
-            target &&
-              "value" in target &&
-              handleChange(target?.value as [number, number]);
+            if (target && "value" in target) {
+              handleChange(
+                isEqual(target.value, extremeValues)
+                  ? undefined
+                  : (target.value as [number, number]),
+              );
+            }
           }}
           valueLabelDisplay="auto"
           getAriaValueText={() => label}

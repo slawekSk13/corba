@@ -1,8 +1,9 @@
 import { useSearch } from "@tanstack/react-router";
-import { SelectEntity } from "../types/filter.types.ts";
+import { RangeEntity, SelectEntity, Timeframe } from "../types/filter.types.ts";
 
 export const useAppState = () => {
   return useSearch({
     from: "",
-  }) as Record<SelectEntity, number[]>;
+  }) as Record<SelectEntity | Timeframe, number[]> &
+    Record<RangeEntity, [number, number]>;
 };
